@@ -1,4 +1,4 @@
-```cpp
+<!--```cpp
 #include <iostream>
 #include <string>
 
@@ -10,6 +10,16 @@ int main() {
 
     return 0;
 }
+```-->
+```
+       .---.            
+      /     \           Hey there!
+      \.@-@./           
+      /`\_/`\           I'm a Student who enjoys
+     //  _  \\           understanding how things
+    | \     )|_           work and is always up
+   /`\_`>  <_/ \           for learning!
+   \__/'---'\__/        
 ```
 ---
 ## 🧠 Knowledge
@@ -54,6 +64,7 @@ int main() {
 [![Portfolio](https://img.shields.io/badge/Portfolio-3d3d3d?style=for-the-badge)]()
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/cleberson-frança-7182912b9)
 
+<!--
 ```
                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
                   ⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    
@@ -68,3 +79,14 @@ int main() {
                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⣀⠀⠀⠀⠀⠀⠀⣀⡤⠞⠁⠀⣰⣆⠀⠀⠀⠀⠀⠀                       \__/'---'\__/
                   ⠀⠀⠀⠀⠀⠘⠿⠀⠀⠀⠀⠀⠈⠉⠙⠒⠒⠛⠉⠁⠀⠀⠀⠉⢳⡞⠉⠀⠀⠀⠀⠀                    
 ```
+```
+                                                                                   .---.
+                                                                                  /     \
+                                                                                  \.@-@./
+                                                                                  /`\_/`\
+                                                                                 //  _  \\
+                                                                                | \     )|_
+                                                                               /`\_`>  <_/ \
+                                                                               \__/'---'\__/
+```
+-->
