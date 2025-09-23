@@ -1,16 +1,33 @@
 ## Hi there 👋
+![Markdown Logo](/pc-ascii.jpg)
 
-<!--
-**fracc-cmd/fracc-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c++
+// -*- coding: utf-8 -*-
+#include <iostream>
+#include <string>
 
-Here are some ideas to get you started:
+struct User {
+  User(const std::string& name, const std::string& role) {
+    this->name = name;
+    this->role = role;
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  void present() {
+    std::cout << "Hi! My name is " << name << ", I'm currently an " << role 
+              << " with curiosity making ideas turn into real things!" << '\n'; 
+  }
+
+private:
+  std::string name;
+  std::string role;
+};
+
+int main() {
+  User* me = new User("Cleberson", "Student");
+  me->present();
+
+  delete me;
+  return 0;
+}
+
+```
