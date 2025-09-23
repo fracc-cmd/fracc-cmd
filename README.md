@@ -1,5 +1,4 @@
-
-```c++
+```cpp
                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
                   ⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    
                   ⠀⠀⠀⠀⠀⠀⣀⡴⢧⣀⠀⠀⣀⣠⠤⠤⠤⠤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    
@@ -21,8 +20,8 @@ int main() {
     std::string name = "Cleberson";
     std::string role = "Student";
     
-    std::cout << "Hi! My name is " << name << ", I'm currently a " << role 
-              << " with curiosity making ideas turn into real things!" << std::endl;
+    std::cout << "Hey! I'm " << name << ", a " << role 
+        << " who enjoys turning ideas into real things and is always up for learning!" << std::endl;
 
     return 0;
 }
@@ -85,5 +84,3 @@ int main() {
 <p align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Clebers0n&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebers0n&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
-
----
