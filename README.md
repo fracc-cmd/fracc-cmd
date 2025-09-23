@@ -1,12 +1,12 @@
 ```
-       .---.            
-      /     \        Hey there!
-      \.@-@./           
-      /`\_/`\        I'm a Student who enjoys
-     //  _  \\        understanding how things
-    | \     )|_        work and is always up
-   /`\_`>  <_/ \        for learning!
-   \__/'---'\__/        
+     .---.            
+    /     \        Hey there!
+    \.@-@./           
+    /`\_/`\        I'm a Student who enjoys
+   //  _  \\        understanding how things
+  | \     )|_        work and is always up
+ /`\_`>  <_/ \        for learning!
+ \__/'---'\__/        
 ```
 ---
 ## 🧠 Knowledge
