@@ -68,6 +68,10 @@ int main() {
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=d3d3d3&color=4772ae)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-blue?logo=javascript&logoColor=d3d3d3&color=4772ae)-->
 
+![Databases](https://img.shields.io/badge/Databases-4d4d4d?)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=postgresql&logoColor=d3d3d3&color=2b4f78)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?logo=mongodb&logoColor=d3d3d3&color=2b4f78)
+![MySQL](https://img.shields.io/badge/MySQL-informational?logo=mysql&logoColor=d3d3d3&color=2b4f78)
 
 ![Tools](https://img.shields.io/badge/Tools-4d4d4d?)
 ![Docker](https://img.shields.io/badge/Docker-informational?logo=docker&logoColor=d3d3d3&color=2b4f78)
