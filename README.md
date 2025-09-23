@@ -1,11 +1,11 @@
 ```
        .---.            
-      /     \           Hey there!
+      /     \        Hey there!
       \.@-@./           
-      /`\_/`\           I'm a Student who enjoys
-     //  _  \\           understanding how things
-    | \     )|_           work and is always up
-   /`\_`>  <_/ \           for learning!
+      /`\_/`\        I'm a Student who enjoys
+     //  _  \\        understanding how things
+    | \     )|_        work and is always up
+   /`\_`>  <_/ \        for learning!
    \__/'---'\__/        
 ```
 ---
