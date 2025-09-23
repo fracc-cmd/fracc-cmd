@@ -1,16 +1,3 @@
-<!--```cpp
-#include <iostream>
-#include <string>
-
-int main() {
-    std::string role = "Student";
-    
-    std::cout << "Hey there! I'm a " << role 
-        << " who enjoys understanding how things work and is always up for learning!" << std::endl;
-
-    return 0;
-}
-```-->
 ```
        .---.            
       /     \           Hey there!
@@ -63,30 +50,3 @@ int main() {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3d3d3d?style=for-the-badge)]()
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/cleberson-frança-7182912b9)
-
-<!--
-```
-                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
-                  ⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    
-                  ⠀⠀⠀⠀⠀⠀⣀⡴⢧⣀⠀⠀⣀⣠⠤⠤⠤⠤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    
-                  ⠀⠀⠀⠀⠀⠀⠀⠘⠏⢀⡴⠊⠁⠀⠀⠀⠀⠀⠀⠈⠙⠦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀                           .---.
-                  ⠀⠀⠀⠀⠀⠀⠀⠀⣰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢶⣶⣒⣶⠦⣤⣀⠀⠀                          /     \
-                  ⠀⠀⠀⠀⠀⠀⢀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣟⠲⡌⠙⢦⠈⢧⠀                          \.@-@./
-                  ⠀⠀⠀⣠⢴⡾⢟⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡴⢃⡠⠋⣠⠋⠀                          /`\_/`\
-                  ⠐⠀⠞⣱⠋⢰⠁⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠤⢖⣋⡥⢖⣫⠔⠋⠀⠀⠀                        //  _  \\
-                  ⠈⠠⡀⠹⢤⣈⣙⠚⠶⠤⠤⠤⠴⠶⣒⣒⣚⣩⠭⢵⣒⣻⠭⢖⠏⠁⢀⣀⠀⠀⠀⠀                     | \     )|_
-                  ⠠⠀⠈⠓⠒⠦⠭⠭⠭⣭⠭⠭⠭⠭⠿⠓⠒⠛⠉⠉⠀⠀⣠⠏⠀⠀⠘⠞⠀⠀⠀⠀                     /`\_`>  <_/ \
-                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⣀⠀⠀⠀⠀⠀⠀⣀⡤⠞⠁⠀⣰⣆⠀⠀⠀⠀⠀⠀                       \__/'---'\__/
-                  ⠀⠀⠀⠀⠀⠘⠿⠀⠀⠀⠀⠀⠈⠉⠙⠒⠒⠛⠉⠁⠀⠀⠀⠉⢳⡞⠉⠀⠀⠀⠀⠀                    
-```
-```
-                                                                                   .---.
-                                                                                  /     \
-                                                                                  \.@-@./
-                                                                                  /`\_/`\
-                                                                                 //  _  \\
-                                                                                | \     )|_
-                                                                               /`\_`>  <_/ \
-                                                                               \__/'---'\__/
-```
--->
