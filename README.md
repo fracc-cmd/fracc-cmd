@@ -25,7 +25,7 @@ int main() {
 ## 🧠 Knowledge
 <br>
 
-![AWS_Services](https://img.shields.io/badge/AWS_Services-4d4d4d?)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-4d4d4d?)
 ![IAM](https://img.shields.io/badge/IAM-informational?color=2b4f78)
 ![VPC](https://img.shields.io/badge/VPC-informational?color=2b4f78)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-informational?color=2b4f78)
