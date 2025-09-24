@@ -40,10 +40,11 @@
 ## 
 
 <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Clebers0n&hide_border=true&mode=weekly&theme=github_dark_blue" />
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=clebers0n&hide_border=true&mode=weekly&theme=github_dark_blue" />
 </p>
 <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Clebers0n&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebers0n&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&theme=github_dark" />
+     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=clebers0n&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=github_dark" />
+     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebers0n&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&count_private=true&theme=github_dark" />
 </p>
 
 ## 💬 Let's Connect!
