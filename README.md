@@ -35,4 +35,6 @@
      
 [![Email](https://img.shields.io/badge/Email-3d3d3d?style=for-the-badge)](mailto:clebercmf0@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/cleberson-frança-7182912b9)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/cleberfr/)
+
 </div>
