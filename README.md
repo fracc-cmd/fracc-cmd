@@ -25,9 +25,11 @@
 ---
 
 <p align="center">
+     <!-- <img height="137px" src="https://github-readme-stats-fast.vercel.app/api?username=cleber-fr&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=github_dark" /> -->
      <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cleber-fr&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=github_dark" /> -->
-     <!-- <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=cleber-fr&hide_border=true&mode=weekly&theme=github_dark_blue" /> -->
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleber-fr&hide_border=true&mode=weekly&theme=github_dark_blue" />
      <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleber-fr&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&count_private=true&theme=github_dark" /> -->
+     <img height="200px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cleber-fr&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&count_private=true&theme=github_dark" />
      
 </p>
 
